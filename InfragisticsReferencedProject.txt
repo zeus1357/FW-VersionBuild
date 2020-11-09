@@ -1,0 +1,12 @@
+Bizentro.AppFramework.UI.Common
+Bizentro.AppFramework.UI.Variables
+Bizentro.AppFramework.UI.Controls
+Bizentro.AppFramework.UI.InfragisticsCAB.WinForms
+Bizentro.App.MAIN.Common
+Bizentro.AppFramework.UI.Library
+Bizentro.App.MAIN.ClientAgent
+Bizentro.AppFramework.UI.AutoDevelopLibrary
+Bizentro.AppFramework.UI.FileUtility
+Bizentro.AppFramework.UI.MESLibrary
+Bizentro.App.MAIN.TreeMenuModule
+Bizentro.App.MAIN.Shell
